@@ -23,13 +23,15 @@ This is application will allow the you to make **scavenger hunts** and share the
 * As a user, there should be a landing page that allows me to sign up/login for the application
 * As a user, I should be able to sign up for the application
 * As a user, I should be able to log in if i already have an account
-* As a user, after I log-in, the page should be welcoming and it should let me complete most of the application functions from this page.
+* As a user, after I log-in, the page should be welcoming and it should let me complete most of the application functions from this page
 * As a user, I should be able to log out of the application
+
 #### Creating a New Scavenger Hunt
 * As a user, I should be able make a new scavenger hunt
 * As a user, I should be able to add clues to the scavenger hunt that I created
 * As a user, I should be able to add location and text associated to a clue
 * As a user, I should be able to share my scavenger hunt with other users/friends
+
 #### Tracking Progress of Scavenger-hunts I created
 * As a user, I should be able to see the scavenger hunts that I created
 * As a user, I should be able to track the progress of all the people participating in the hunt
@@ -37,6 +39,7 @@ This is application will allow the you to make **scavenger hunts** and share the
 * As a user, I should be able to delete clues
 * As a user, I should be able to edit the clues
 * As a user, I should be able to deactivate/end the hunt
+
 #### Tracking Progress of Scavenger-hunts I am a member of
 * As a user, I should be able to see all the hunts that I completed
 * As a user, I should be able to see the hunt I am currently participating in
